@@ -30,7 +30,7 @@ def get_number_of_char(string: str, char: str) -> int:
     i = 0
     for i in range(len(string)):
         if string[i] == char:
-            i += 1
+            a += 1
             print(string[i]) 
     return i 
 
