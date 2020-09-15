@@ -22,7 +22,7 @@ def replace_char(string: str, old_char: str, new_char: str) -> str:
         if string[i] == old_char:
             new_string += new_char
         else:
-            new
+            new_string += string[i]
 
 
 def get_number_of_char(string: str, char: str) -> int:
