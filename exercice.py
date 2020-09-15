@@ -36,11 +36,12 @@ def get_number_of_char(string: str, char: str) -> int:
     
 def get_number_of_words(sentence: str, word: str) -> int:
     liste = sentence.split(" ")
+    a = 0 
     for i in liste:
         if liste[i] = "doo":
             a += 1
     
-re
+    return a 
 
 
 def main() -> None:
