@@ -35,6 +35,7 @@ def get_number_of_char(string: str, char: str) -> int:
     return a
     
 def get_number_of_words(sentence: str, word: str) -> int:
+    sen
     pass
 
 
