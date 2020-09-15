@@ -32,9 +32,9 @@ def get_number_of_char(string: str, char: str) -> int:
         if string[i] == char:
             a += 1
             print(string[i]) 
-    return i 
-
-def get_number_of_words(sentence: str, word: str) -> int:
+    return a
+    
+    def get_number_of_words(sentence: str, word: str) -> int:
     pass
 
 
