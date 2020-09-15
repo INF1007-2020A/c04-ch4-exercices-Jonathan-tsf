@@ -38,7 +38,7 @@ def get_number_of_words(sentence: str, word: str) -> int:
     liste = sentence.split(" ")
     for i in liste:
         if liste[i] = "doo":
-            
+            a = 
     pass
 
 
