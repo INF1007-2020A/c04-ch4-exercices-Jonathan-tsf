@@ -34,8 +34,8 @@ def get_number_of_char(string: str, char: str) -> int:
             print(string[i]) 
     return a
     
-    def get_number_of_words(sentence: str, word: str) -> int:
-    pass
+ def get_number_of_words(sentence: str, word: str) -> int:
+ pass
 
 
 def main() -> None:
