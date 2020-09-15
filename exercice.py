@@ -5,7 +5,7 @@
 def is_even_len(string: str) -> bool:
     longeur = len(string)
     if longeur % 2 == 0:
-        a = True
+        a = False
     else:
         a = False
     pass
