@@ -40,7 +40,7 @@ def get_number_of_words(sentence: str, word: str) -> int:
         if liste[i] = "doo":
             a += 1
     
-    pass
+re
 
 
 def main() -> None:
