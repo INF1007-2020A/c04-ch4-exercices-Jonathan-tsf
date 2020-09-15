@@ -20,7 +20,8 @@ def replace_char(string: str, old_char: str, new_char: str) -> str:
     new_strin = ""
     for i in len(string):
         if string[i] == old_char:
-            new_string += n
+            new_string += new_char:
+        
 
 
 def get_number_of_char(string: str, char: str) -> int:
